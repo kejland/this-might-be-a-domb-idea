@@ -12,7 +12,7 @@ let item3 = document.querySelector("#item-3");
 item3.innerText = "Hi!";
 
 let img = document.querySelector("img");
-img.src = "https://cdna.artstation.com/p/assets/images/images/000/347/382/large/wandah-kurniawan-trex-4.jpg?1418184498";
+img.src = "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2021-04/210415-tyrannosaurus-rex-mn-1550-9612a9.jpg";
 img.style.height = "300px";
 
 let img2 = document.querySelector("#image2");
