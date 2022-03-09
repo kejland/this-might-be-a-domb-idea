@@ -12,7 +12,7 @@ let item3 = document.querySelector("#item-3");
 item3.innerText = "Hi!";
 
 let img = document.querySelector("img");
-img.src = "http://www.tioxic.com/wp-content/uploads/trex_4.jpg";
+img.src = "http://k33.kn3.net/taringa/B/0/7/4/3/1/luistale/05B.jpg";
 img.style.height = "300px";
 
 let img2 = document.querySelector("#image2");
