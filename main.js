@@ -12,7 +12,7 @@ let item3 = document.querySelector("#item-3");
 item3.innerText = "Hi!";
 
 let img = document.querySelector("img");
-img.src = "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2021-04/210415-tyrannosaurus-rex-mn-1550-9612a9.jpg";
+img.src = "https://images.unsplash.com/photo-1563136192-a4b2b5f977e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8eWFybnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60";
 img.style.height = "300px";
 
 let img2 = document.querySelector("#image2");
